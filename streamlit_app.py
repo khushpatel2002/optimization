@@ -160,7 +160,7 @@ def north_west_corner(problem: Problem) -> Approximation:
     return approximation
 
 
-def penalty(approximation: Approximation) -> tuple[list[int | None], list[int | None]]:
+def penalty(approximation):
     """Calculate the penalty for each row and column.
 
     Args:
