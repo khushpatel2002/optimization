@@ -30,10 +30,10 @@ To run this project, follow these steps:
 ```bash
 pip install streamlit
 ```
-3. cd into the folder and run the main.py
+3. cd into the folder and run the streamlit_app.py using the command to use the interface.
 ```bash
 cd optimization
-//Khush, edit and enter here, or whereever you think is relevant
+streamlit run streamlit_app.py
 ```
 4. Follow the prompts of the program to enter the inputs. 
 
