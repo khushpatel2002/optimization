@@ -24,20 +24,18 @@ To run this project, follow these steps:
 
 1. Clone the repository to your local machine.
    ```bash
-   https://github.com/Isistickz/interior_point
+   git clone https://github.com/khushpatel2002/optimization
    ```
 2. Install the dependency
 ```bash
-pip install numpy
+pip install streamlit
 ```
 3. cd into the folder and run the main.py
 ```bash
-cd interior_point
-python main.py
+cd optimization
+//Khush, edit and enter here, or whereever you think is relevant
 ```
-4. Follow the prompts of the program to enter the inputs. We make two fundamental assumptions about the LPPs you want to solve:
-   - That they are in standard form already, i.e. all slack variables have been added already, where necessary
-   - That they are maximization problems.
+4. Follow the prompts of the program to enter the inputs. 
 
 ## Contributors
 This project was a collaborative effort by the following team members:
